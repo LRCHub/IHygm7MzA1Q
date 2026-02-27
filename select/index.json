@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "回り続けるのだ…",
+  "base_artist": "ひがしやしき",
+  "createdAt": "2026-02-27T02:19:03.776624Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "回り続けるのだ…",
+      "artist": "ひがしやしき",
+      "has_synced": false,
+      "path": "select/pl_01_回り続けるのだ..._ひがしやしき.txt"
+    }
+  ]
+}
